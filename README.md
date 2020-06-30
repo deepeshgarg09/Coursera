@@ -1,2 +1,2 @@
 # Coursera
-Some Codes And Projects Of Courses Of Coursera Are Uploaded Here .
+Some jupyter notebooks And Projects Of Courses Of Coursera Are Uploaded Here .
