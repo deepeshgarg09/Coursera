@@ -22,4 +22,5 @@ print(is_power_of_two(0)) # Should be False
 print(is_power_of_two(1)) # Should be True
 print(is_power_of_two(8)) # Should be True
 print(is_power_of_two(9)) # Should be False
+print(is_power_of_two(32)) # Should be True
 
